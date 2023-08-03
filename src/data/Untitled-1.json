@@ -1,0 +1,5852 @@
+[
+    {
+        "name": "Lehigh Valley International Airport",
+        "code": "ABE",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Allentown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Abilene Regional Airport",
+        "code": "ABI",
+        "address": {
+            "state": "Texas",
+            "city": "Abilene"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ambler Airport",
+        "code": "ABL",
+        "address": {
+            "state": "Alaska",
+            "city": "Kiana"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Albuquerque International Airport",
+        "code": "ABQ",
+        "address": {
+            "state": "New Mexico",
+            "city": "Albuquerque"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Aberdeen Regional Airport",
+        "code": "ABR",
+        "address": {
+            "state": "South Dakota",
+            "city": "Aberdeen"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Southwest Georgia Regional Airport",
+        "code": "ABY",
+        "address": {
+            "state": "Georgia",
+            "city": "Albany"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nantucket Memorial Airport",
+        "code": "ACK",
+        "address": {
+            "state": "Massachusetts",
+            "city": "Nantucket"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Waco Regional Airport",
+        "code": "ACT",
+        "address": {
+            "state": "Texas",
+            "city": "Waco"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Arcata Airport",
+        "code": "ACV",
+        "address": {
+            "state": "California",
+            "city": "Mckinleyville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Atlantic City International Airport",
+        "code": "ACY",
+        "address": {
+            "state": "New Jersey",
+            "city": "Egg Harbor City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Adak Airport",
+        "code": "ADK",
+        "address": {
+            "state": "Alaska",
+            "city": "Adak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kodiak Airport",
+        "code": "ADQ",
+        "address": {
+            "state": "Alaska",
+            "city": "Kodiak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Allakaket Airport",
+        "code": "AET",
+        "address": {
+            "state": "Alaska",
+            "city": "Allakaket"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alexandria International Airport",
+        "code": "AEX",
+        "address": {
+            "state": "Louisiana",
+            "city": "Alexandria"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Angoon Airport",
+        "code": "AGN",
+        "address": {
+            "state": "Alaska",
+            "city": "Angoon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bush Field Airport",
+        "code": "AGS",
+        "address": {
+            "state": "Georgia",
+            "city": "Augusta"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alliance Municipal Airport",
+        "code": "AIA",
+        "address": {
+            "state": "Nebraska",
+            "city": "Alliance"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wainwright Airport",
+        "code": "AIN",
+        "address": {
+            "state": "Alaska",
+            "city": "Wainwright"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Atka Airport",
+        "code": "AKB",
+        "address": {
+            "state": "Alaska",
+            "city": "Atka"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Akiak Airport",
+        "code": "AKI",
+        "address": {
+            "state": "Alaska",
+            "city": "Bethel"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Akhiok Airport",
+        "code": "AKK",
+        "address": {
+            "state": "Alaska",
+            "city": "Kodiak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "King Salmon Airport",
+        "code": "AKN",
+        "address": {
+            "state": "Alaska",
+            "city": "King Salmon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Anaktuvuk Pass Airport",
+        "code": "AKP",
+        "address": {
+            "state": "Alaska",
+            "city": "Anaktuvuk Pass"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Albany International Airport",
+        "code": "ALB",
+        "address": {
+            "state": "New York",
+            "city": "Latham"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alamogordo White Sands Regional Airport",
+        "code": "ALM",
+        "address": {
+            "state": "New Mexico",
+            "city": "Alamogordo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Waterloo Municipal Airport",
+        "code": "ALO",
+        "address": {
+            "state": "Iowa",
+            "city": "Waterloo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "San Luis Valley Regional Airport",
+        "code": "ALS",
+        "address": {
+            "state": "Colorado",
+            "city": "Alamosa"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Walla Walla Regional Airport",
+        "code": "ALW",
+        "address": {
+            "state": "Washington",
+            "city": "Walla Walla"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Amarillo International Airport",
+        "code": "AMA",
+        "address": {
+            "state": "Texas",
+            "city": "Amarillo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Anchorage International Airport",
+        "code": "ANC",
+        "address": {
+            "state": "Alaska",
+            "city": "Anchorage"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Aniak Airport",
+        "code": "ANI",
+        "address": {
+            "state": "Alaska",
+            "city": "Bethel"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Anvik Airport",
+        "code": "ANV",
+        "address": {
+            "state": "Alaska",
+            "city": "Anvik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Altoona-Blair County Airport",
+        "code": "AOO",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Martinsburg"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Amook Bay Seaplane Base",
+        "code": "AOS",
+        "address": {
+            "state": "Alaska",
+            "city": "Amook"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Naples Municipal Airport",
+        "code": "APF",
+        "address": {
+            "state": "Florida",
+            "city": "Naples"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alpena County Regional Airport",
+        "code": "APN",
+        "address": {
+            "state": "Michigan",
+            "city": "Alpena"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Arctic Village Airport",
+        "code": "ARC",
+        "address": {
+            "state": "Alaska",
+            "city": "Arctic Village"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Watertown International Airport",
+        "code": "ART",
+        "address": {
+            "state": "New York",
+            "city": "Dexter"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lakelan-Noble F. Lee Memerial Field Airport",
+        "code": "ARV",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Woodruff"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Aspen Pitkin County Airport-Sardy Field",
+        "code": "ASE",
+        "address": {
+            "state": "Colorado",
+            "city": "Aspen"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Atqasuk Airport",
+        "code": "ATK",
+        "address": {
+            "state": "Alaska",
+            "city": "Atqasuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hartsfield-Jackson Atlanta International Airport",
+        "code": "ATL",
+        "address": {
+            "state": "Georgia",
+            "city": "Atlanta"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Atmautluak Airport",
+        "code": "ATT",
+        "address": {
+            "state": "Alaska",
+            "city": "Atmautluak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Outagamie County Airport",
+        "code": "ATW",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Appleton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Watertown Municipal Airport",
+        "code": "ATY",
+        "address": {
+            "state": "South Dakota",
+            "city": "Watertown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Augusta State Airport",
+        "code": "AUG",
+        "address": {
+            "state": "Maine",
+            "city": "Augusta"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alakanuk Airport",
+        "code": "AUK",
+        "address": {
+            "state": "Alaska",
+            "city": "Alakanuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Austin-Bergstrom International Airport",
+        "code": "AUS",
+        "address": {
+            "state": "Texas",
+            "city": "Austin"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Asheville Regional Airport",
+        "code": "AVL",
+        "address": {
+            "state": "North Carolina",
+            "city": "Fletcher"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wilkes Barre Scranton International Airport",
+        "code": "AVP",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Pittston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Phoenix-Mesa Gateway Airport",
+        "code": "AZA",
+        "address": {
+            "state": "Arizona",
+            "city": "Phoenix"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kalamazoo-Battle Creek International Airport",
+        "code": "AZO",
+        "address": {
+            "state": "Michigan",
+            "city": "Kalamazoo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bradley International Airport",
+        "code": "BDL",
+        "address": {
+            "state": "Connecticut",
+            "city": "Windsor Locks"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Igor I Sikorsky Memorial Airport",
+        "code": "BDR",
+        "address": {
+            "state": "Connecticut",
+            "city": "Stratford"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bethel Airport",
+        "code": "BET",
+        "address": {
+            "state": "Alaska",
+            "city": "Bethel"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bradford Regional Airport",
+        "code": "BFD",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Lewis Run"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "William B Heilig Field Airport",
+        "code": "BFF",
+        "address": {
+            "state": "Nebraska",
+            "city": "Scottsbluff"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "King County International Airport-Boeing Field",
+        "code": "BFI",
+        "address": {
+            "state": "Washington",
+            "city": "Seattle"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kern County-Meadows Field Airport",
+        "code": "BFL",
+        "address": {
+            "state": "California",
+            "city": "Bakersfield"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greater Binghamton Edwin A Link Field Airport",
+        "code": "BGM",
+        "address": {
+            "state": "New York",
+            "city": "Johnson City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bangor International Airport",
+        "code": "BGR",
+        "address": {
+            "state": "Maine",
+            "city": "Bangor"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hancock County-Bar Harbor Airport",
+        "code": "BHB",
+        "address": {
+            "state": "Maine",
+            "city": "Ellsworth"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Birmingham International Airport",
+        "code": "BHM",
+        "address": {
+            "state": "Alabama",
+            "city": "Birmingham"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Block Island State Airport",
+        "code": "BID",
+        "address": {
+            "state": "Rhode Island",
+            "city": "Block Island"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Logan International Airport",
+        "code": "BIL",
+        "address": {
+            "state": "Montana",
+            "city": "Billings"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bismarck Municipal Airport",
+        "code": "BIS",
+        "address": {
+            "state": "North Dakota",
+            "city": "Bismarck"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bemidji-Beltrami County Airport",
+        "code": "BJI",
+        "address": {
+            "state": "Minnesota",
+            "city": "Bemidji"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Buckland Airport",
+        "code": "BKC",
+        "address": {
+            "state": "Alaska",
+            "city": "Buckland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Raleigh County Memorial Airport",
+        "code": "BKW",
+        "address": {
+            "state": "West Virginia",
+            "city": "Beaver"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bellingham International Airport",
+        "code": "BLI",
+        "address": {
+            "state": "Washington",
+            "city": "Bellingham"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bloomington Normal Airport",
+        "code": "BMI",
+        "address": {
+            "state": "Illinois",
+            "city": "Bloomington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nashville International Airport",
+        "code": "BNA",
+        "address": {
+            "state": "Tennessee",
+            "city": "Nashville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Boise Air Terminal",
+        "code": "BOI",
+        "address": {
+            "state": "Idaho",
+            "city": "Boise"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gen E L Logan International Airport",
+        "code": "BOS",
+        "address": {
+            "state": "Massachusetts",
+            "city": "Boston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bartow Municipal Airport",
+        "code": "BOW",
+        "address": {
+            "state": "Florida",
+            "city": "Bartow"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Jefferson County Airport",
+        "code": "BPT",
+        "address": {
+            "state": "Texas",
+            "city": "Beaumont"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Glynco Jetport Airport",
+        "code": "BQK",
+        "address": {
+            "state": "Georgia",
+            "city": "Brunswick"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rafael Hernandez Airport",
+        "code": "BQN",
+        "address": {
+            "state": "Puerto Rico",
+            "city": "Aguadilla"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Brainerd-Crow Wing County Regional Airport",
+        "code": "BRD",
+        "address": {
+            "state": "Minnesota",
+            "city": "Brainerd"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Burlington Municipal Airport",
+        "code": "BRL",
+        "address": {
+            "state": "Iowa",
+            "city": "Burlington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Brownsville-South Padre Island International Air",
+        "code": "BRO",
+        "address": {
+            "state": "Texas",
+            "city": "Brownsville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wiley Post Will Rogers Memorial Airport",
+        "code": "BRW",
+        "address": {
+            "state": "Alaska",
+            "city": "Barrow"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Barter Island Airport",
+        "code": "BTI",
+        "address": {
+            "state": "Alaska",
+            "city": "Kaktovik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "W K Kellogg Airport",
+        "code": "BTL",
+        "address": {
+            "state": "Michigan",
+            "city": "Battle Creek"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bert Mooney Airport",
+        "code": "BTM",
+        "address": {
+            "state": "Montana",
+            "city": "Butte"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Baton Rouge Metropolitan Airport",
+        "code": "BTR",
+        "address": {
+            "state": "Louisiana",
+            "city": "Baton Rouge"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bettles Airport",
+        "code": "BTT",
+        "address": {
+            "state": "Alaska",
+            "city": "Bettles"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Burlington International Airport",
+        "code": "BTV",
+        "address": {
+            "state": "Vermont",
+            "city": "South Burlington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greater Buffalo International Airport",
+        "code": "BUF",
+        "address": {
+            "state": "New York",
+            "city": "Buffalo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Burbank Glendale Pasadena Airport",
+        "code": "BUR",
+        "address": {
+            "state": "California",
+            "city": "Burbank"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Baltimore-Washington International Thurgood Mars",
+        "code": "BWI",
+        "address": {
+            "state": "Maryland",
+            "city": "Baltimore"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gallatin Field Airport",
+        "code": "BZN",
+        "address": {
+            "state": "Montana",
+            "city": "Bozeman"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Columbia Metropolitan Airport",
+        "code": "CAE",
+        "address": {
+            "state": "South Carolina",
+            "city": "West Columbia"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Akron Canton Regional Airport",
+        "code": "CAK",
+        "address": {
+            "state": "Ohio",
+            "city": "Canton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cold Bay Airport",
+        "code": "CDB",
+        "address": {
+            "state": "Alaska",
+            "city": "Cold Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cedar City Municipal Airport",
+        "code": "CDC",
+        "address": {
+            "state": "Utah",
+            "city": "Cedar City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chadron Municipal Airport",
+        "code": "CDR",
+        "address": {
+            "state": "Nebraska",
+            "city": "Chadron"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Merle K Mudhole Smith Airport",
+        "code": "CDV",
+        "address": {
+            "state": "Alaska",
+            "city": "Cordova"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Jack Mcnamara Field Airport",
+        "code": "CEC",
+        "address": {
+            "state": "California",
+            "city": "Crescent City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Central Airport",
+        "code": "CEM",
+        "address": {
+            "state": "Alaska",
+            "city": "Circle"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cortez-Montezuma County Airport",
+        "code": "CEZ",
+        "address": {
+            "state": "Colorado",
+            "city": "Cortez"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Craig Seaplane Base",
+        "code": "CGA",
+        "address": {
+            "state": "Alaska",
+            "city": "Craig"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cape Girardeau Municipal Airport",
+        "code": "CGI",
+        "address": {
+            "state": "Missouri",
+            "city": "Scott City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chattanooga Metropolitan Airport",
+        "code": "CHA",
+        "address": {
+            "state": "Tennessee",
+            "city": "Chattanooga"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Charlottesville Albemarle Airport",
+        "code": "CHO",
+        "address": {
+            "state": "Virginia",
+            "city": "Earlysville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chuathbaluk",
+        "code": "CHU",
+        "address": {
+            "state": "Alaska",
+            "city": "Chuathbaluk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chico Municipal Airport",
+        "code": "CIC",
+        "address": {
+            "state": "California",
+            "city": "Chico"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cedar Rapids Municipal Airport",
+        "code": "CID",
+        "address": {
+            "state": "Iowa",
+            "city": "Cedar Rapids"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chalkyitsik Airport",
+        "code": "CIK",
+        "address": {
+            "state": "Alaska",
+            "city": "Chalkyitsik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chippewa County International Airport",
+        "code": "CIU",
+        "address": {
+            "state": "Michigan",
+            "city": "Kincheloe"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Benedum Airport",
+        "code": "CKB",
+        "address": {
+            "state": "West Virginia",
+            "city": "Clarksburg"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Crooked Creek Airport",
+        "code": "CKD",
+        "address": {
+            "state": "Alaska",
+            "city": "Aniak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chicken Airport",
+        "code": "CKX",
+        "address": {
+            "state": "Alaska",
+            "city": "Tok"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mcclellan Palomar Airport",
+        "code": "CLD",
+        "address": {
+            "state": "California",
+            "city": "Carlsbad"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hopkins International Airport",
+        "code": "CLE",
+        "address": {
+            "state": "Ohio",
+            "city": "Cleveland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Easterwood Field Airport",
+        "code": "CLL",
+        "address": {
+            "state": "Texas",
+            "city": "College Station"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "William R Fairchild International Airport",
+        "code": "CLM",
+        "address": {
+            "state": "Washington",
+            "city": "Port Angeles"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Clarks Point Airport",
+        "code": "CLP",
+        "address": {
+            "state": "Alaska",
+            "city": "Clarks Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Douglas International Airport",
+        "code": "CLT",
+        "address": {
+            "state": "North Carolina",
+            "city": "Charlotte"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Port Columbus International Airport",
+        "code": "CMH",
+        "address": {
+            "state": "Ohio",
+            "city": "Columbus"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "University of Illinois-Willard Airport",
+        "code": "CMI",
+        "address": {
+            "state": "Illinois",
+            "city": "Savoy"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Houghton County Memorial Airport",
+        "code": "CMX",
+        "address": {
+            "state": "Michigan",
+            "city": "Hancock"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cavern City Air Terminal Airport",
+        "code": "CNM",
+        "address": {
+            "state": "New Mexico",
+            "city": "Carlsbad"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Canyonlands Field Airport",
+        "code": "CNY",
+        "address": {
+            "state": "Utah",
+            "city": "Thompson"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yellowstone Regional Airport",
+        "code": "COD",
+        "address": {
+            "state": "Wyoming",
+            "city": "Cody/Yellowstone"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "City of Colorado Springs Municipal Airport",
+        "code": "COS",
+        "address": {
+            "state": "Colorado",
+            "city": "Colorado Springs"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Columbia Regional Airport",
+        "code": "COU",
+        "address": {
+            "state": "Missouri",
+            "city": "Columbia"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Natrona County International Airport",
+        "code": "CPR",
+        "address": {
+            "state": "Wyoming",
+            "city": "Casper"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Culebra Airport",
+        "code": "CPX",
+        "address": {
+            "state": "Puerto Rico",
+            "city": "Culebra"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Corpus Christi International Airport",
+        "code": "CRP",
+        "address": {
+            "state": "Texas",
+            "city": "Corpus Christi"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yeager Airport",
+        "code": "CRW",
+        "address": {
+            "state": "West Virginia",
+            "city": "Charleston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Columbus Metropolitan Airport",
+        "code": "CSG",
+        "address": {
+            "state": "Georgia",
+            "city": "Columbus"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greater Cincinnati International Airport",
+        "code": "CVG",
+        "address": {
+            "state": "Ohio",
+            "city": "Hebron"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Clovis Municipal Airport",
+        "code": "CVN",
+        "address": {
+            "state": "New Mexico",
+            "city": "Texico"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Central Wisconsin Airport",
+        "code": "CWA",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Mosinee"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cheyenne Airport",
+        "code": "CYS",
+        "address": {
+            "state": "Wyoming",
+            "city": "Cheyenne"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chisana Airport",
+        "code": "CZN",
+        "address": {
+            "state": "Alaska",
+            "city": "Gakona"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Daytona Beach International Airport",
+        "code": "DAB",
+        "address": {
+            "state": "Florida",
+            "city": "Daytona Beach"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dallas Love Field Airport",
+        "code": "DAL",
+        "address": {
+            "state": "Texas",
+            "city": "Dallas"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "James M Cox Dayton International Airport",
+        "code": "DAY",
+        "address": {
+            "state": "Ohio",
+            "city": "Dayton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dubuque Regional Airport",
+        "code": "DBQ",
+        "address": {
+            "state": "Iowa",
+            "city": "Dubuque"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Washington National Airport",
+        "code": "DCA",
+        "address": {
+            "state": "Virginia",
+            "city": "Arlington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dodge City Regional Airport",
+        "code": "DDC",
+        "address": {
+            "state": "Kansas",
+            "city": "Dodge City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Decatur Airport",
+        "code": "DEC",
+        "address": {
+            "state": "Illinois",
+            "city": "Decatur"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Denver International Airport",
+        "code": "DEN",
+        "address": {
+            "state": "Colorado",
+            "city": "Denver"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fort Worth International Airport",
+        "code": "DFW",
+        "address": {
+            "state": "Texas",
+            "city": "Dallas"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dothan Airport",
+        "code": "DHN",
+        "address": {
+            "state": "Alabama",
+            "city": "Dothan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dickinson Municipal Airport",
+        "code": "DIK",
+        "address": {
+            "state": "North Dakota",
+            "city": "Dickinson"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dillingham Municipal Airport",
+        "code": "DLG",
+        "address": {
+            "state": "Alaska",
+            "city": "Dillingham"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Duluth International Airport",
+        "code": "DLH",
+        "address": {
+            "state": "Minnesota",
+            "city": "Duluth"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Deering Airport",
+        "code": "DRG",
+        "address": {
+            "state": "Alaska",
+            "city": "Deering"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Durango la Plata County Airport",
+        "code": "DRO",
+        "address": {
+            "state": "Colorado",
+            "city": "Durango"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Del Rio International Airport",
+        "code": "DRT",
+        "address": {
+            "state": "Texas",
+            "city": "Del Rio"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Des Moines International Airport",
+        "code": "DSM",
+        "address": {
+            "state": "Iowa",
+            "city": "Des Moines"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Detroit Metropolitan Wayne County Airport",
+        "code": "DTW",
+        "address": {
+            "state": "Michigan",
+            "city": "Detroit"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Du Bois Jefferson County Airport",
+        "code": "DUJ",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Reynoldsville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Unalaska Airport",
+        "code": "DUT",
+        "address": {
+            "state": "Alaska",
+            "city": "Unalaska"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Devils Lake Municipal Airport",
+        "code": "DVL",
+        "address": {
+            "state": "North Dakota",
+            "city": "Devils Lake"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eagle Airport",
+        "code": "EAA",
+        "address": {
+            "state": "Alaska",
+            "city": "Tok"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kearney Municipal Airport",
+        "code": "EAR",
+        "address": {
+            "state": "Nebraska",
+            "city": "Kearney"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pangborn Memorial Airport",
+        "code": "EAT",
+        "address": {
+            "state": "Washington",
+            "city": "East Wenatchee"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eau Claire County Airport",
+        "code": "EAU",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Eau Claire"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Edna Bay Seaplane Base",
+        "code": "EDA",
+        "address": {
+            "state": "Alaska",
+            "city": "Ketchikan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eek Airport",
+        "code": "EEK",
+        "address": {
+            "state": "Alaska",
+            "city": "Eek"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eagle County Regional Airport",
+        "code": "EGE",
+        "address": {
+            "state": "Colorado",
+            "city": "Gypsum"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eagle River Union Airport",
+        "code": "EGV",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Eagle River"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Egegik Airport",
+        "code": "EGX",
+        "address": {
+            "state": "Alaska",
+            "city": "Egegik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Elko Municipal Airport-J C Harris Field",
+        "code": "EKO",
+        "address": {
+            "state": "Nevada",
+            "city": "Elko"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Elim Airport",
+        "code": "ELI",
+        "address": {
+            "state": "Alaska",
+            "city": "Elim"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Elmira Corning Regional Airport",
+        "code": "ELM",
+        "address": {
+            "state": "New York",
+            "city": "Horseheads"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "El Paso International Airport",
+        "code": "ELP",
+        "address": {
+            "state": "Texas",
+            "city": "El Paso"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yelland Field Airport",
+        "code": "ELY",
+        "address": {
+            "state": "Nevada",
+            "city": "Ely"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Emmonak Airport",
+        "code": "EMK",
+        "address": {
+            "state": "Alaska",
+            "city": "Alakanuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kenai Municipal Airport",
+        "code": "ENA",
+        "address": {
+            "state": "Alaska",
+            "city": "Kenai"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kenosha Regional Airport",
+        "code": "ENW",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Kenosha"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Erie International Airport",
+        "code": "ERI",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Erie"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Delta County Airport",
+        "code": "ESC",
+        "address": {
+            "state": "Michigan",
+            "city": "Escanaba"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Orcas Island Airport",
+        "code": "ESD",
+        "address": {
+            "state": "Washington",
+            "city": "Eastsound"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mahlon Sweet Field Airport",
+        "code": "EUG",
+        "address": {
+            "state": "Oregon",
+            "city": "Eugene"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Evansville Regional Airport",
+        "code": "EVV",
+        "address": {
+            "state": "Indiana",
+            "city": "Evansville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "New Bedford Municipal Airport",
+        "code": "EWB",
+        "address": {
+            "state": "Massachusetts",
+            "city": "New Bedford"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wildman Lake",
+        "code": "EWD",
+        "address": {
+            "state": "Alaska",
+            "city": "Wildman Lake"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Craven County Regional Airport",
+        "code": "EWN",
+        "address": {
+            "state": "North Carolina",
+            "city": "New Bern"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Newark International Airport",
+        "code": "EWR",
+        "address": {
+            "state": "New Jersey",
+            "city": "Newark"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Key West International Airport",
+        "code": "EYW",
+        "address": {
+            "state": "Florida",
+            "city": "Key West"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fairbanks International Airport",
+        "code": "FAI",
+        "address": {
+            "state": "Alaska",
+            "city": "Fairbanks"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hector International Airport",
+        "code": "FAR",
+        "address": {
+            "state": "North Dakota",
+            "city": "Fargo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fresno Yosemite International Airport",
+        "code": "FAT",
+        "address": {
+            "state": "California",
+            "city": "Fresno"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fayetteville Regional Airport",
+        "code": "FAY",
+        "address": {
+            "state": "North Carolina",
+            "city": "Fayetteville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Glacier Park International Airport",
+        "code": "FCA",
+        "address": {
+            "state": "Montana",
+            "city": "Kalispell"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chess Lamberton Airport",
+        "code": "FKL",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Franklin"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Flagstaff Pulliam Airport",
+        "code": "FLG",
+        "address": {
+            "state": "Arizona",
+            "city": "Flagstaff"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fort Lauderdale Hollywood International Airport",
+        "code": "FLL",
+        "address": {
+            "state": "Florida",
+            "city": "Dania Beach"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Florence Regional Airport",
+        "code": "FLO",
+        "address": {
+            "state": "South Carolina",
+            "city": "Florence"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Four Corners Regional Airport",
+        "code": "FMN",
+        "address": {
+            "state": "New Mexico",
+            "city": "Farmington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Page Field Airport",
+        "code": "FMY",
+        "address": {
+            "state": "Florida",
+            "city": "Fort Myers"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bishop International Airport",
+        "code": "FNT",
+        "address": {
+            "state": "Michigan",
+            "city": "Flint"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fort Dodge Regional Airport",
+        "code": "FOD",
+        "address": {
+            "state": "Iowa",
+            "city": "Fort Dodge"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Friday Harbor Airport",
+        "code": "FRD",
+        "address": {
+            "state": "Washington",
+            "city": "Friday Harbor"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sioux Falls Regional Airport",
+        "code": "FSD",
+        "address": {
+            "state": "South Dakota",
+            "city": "Sioux Falls"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Smith Field Airport",
+        "code": "FSM",
+        "address": {
+            "state": "Arkansas",
+            "city": "Fort Smith"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fort Wayne Municipal Airport-Baer Field",
+        "code": "FWA",
+        "address": {
+            "state": "Indiana",
+            "city": "Fort Wayne"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fort Yukon Airport",
+        "code": "FYU",
+        "address": {
+            "state": "Alaska",
+            "city": "Fort Yukon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Galena Airport",
+        "code": "GAL",
+        "address": {
+            "state": "Alaska",
+            "city": "Galena"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gambell Airport",
+        "code": "GAM",
+        "address": {
+            "state": "Alaska",
+            "city": "Gambell"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Great Bend Municipal Airport",
+        "code": "GBD",
+        "address": {
+            "state": "Kansas",
+            "city": "Great Bend"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gillette Campbell County Airport",
+        "code": "GCC",
+        "address": {
+            "state": "Wyoming",
+            "city": "Gillette"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Garden City Regional Airport",
+        "code": "GCK",
+        "address": {
+            "state": "Kansas",
+            "city": "Pierceville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Spokane International Airport",
+        "code": "GEG",
+        "address": {
+            "state": "Washington",
+            "city": "Spokane"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Grand Forks Mark Andrews International Airport",
+        "code": "GFK",
+        "address": {
+            "state": "North Dakota",
+            "city": "Grand Forks"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gregg County Airport",
+        "code": "GGG",
+        "address": {
+            "state": "Texas",
+            "city": "Longview"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Walker Field Airport",
+        "code": "GJT",
+        "address": {
+            "state": "Colorado",
+            "city": "Grand Junction"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mid Delta Regional Airport",
+        "code": "GLH",
+        "address": {
+            "state": "Mississippi",
+            "city": "Greenville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Golovin",
+        "code": "GLV",
+        "address": {
+            "state": "Alaska",
+            "city": "Golovin"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "GNU",
+        "address": {
+            "state": "Alaska",
+            "city": "Goodnews Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gainesville Regional Airport",
+        "code": "GNV",
+        "address": {
+            "state": "Florida",
+            "city": "Gainesville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gulfport Biloxi Regional Airport",
+        "code": "GPT",
+        "address": {
+            "state": "Mississippi",
+            "city": "Gulfport"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Austin Straubel International Airport",
+        "code": "GRB",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Green Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gerald R. Ford International Airport",
+        "code": "GRR",
+        "address": {
+            "state": "Michigan",
+            "city": "Grand Rapids"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Triad International Airport",
+        "code": "GSO",
+        "address": {
+            "state": "North Carolina",
+            "city": "Greensboro"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greenville Spartanburg International Airport",
+        "code": "GSP",
+        "address": {
+            "state": "South Carolina",
+            "city": "Greer"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gustavus Airport",
+        "code": "GST",
+        "address": {
+            "state": "Alaska",
+            "city": "Gustavus"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Great Falls International Airport",
+        "code": "GTF",
+        "address": {
+            "state": "Montana",
+            "city": "Great Falls"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Golden Triangle Regional Airport",
+        "code": "GTR",
+        "address": {
+            "state": "Mississippi",
+            "city": "Columbus"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gunnison County Airport",
+        "code": "GUC",
+        "address": {
+            "state": "Colorado",
+            "city": "Gunnison"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Antonio B Won Pat International Airport",
+        "code": "GUM",
+        "address": {
+            "state": "Guam",
+            "city": "Hagåtña"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Havasupai",
+        "code": "HAE",
+        "address": {
+            "state": "Arizona",
+            "city": "Havasupai"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "HCR",
+        "address": {
+            "state": "Alaska",
+            "city": "Holy Cross"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yampa Valley Airport",
+        "code": "HDN",
+        "address": {
+            "state": "Colorado",
+            "city": "Hayden"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hilton Head Airport",
+        "code": "HHH",
+        "address": {
+            "state": "South Carolina",
+            "city": "Hilton Head Island"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chisholm Hibbing Airport",
+        "code": "HIB",
+        "address": {
+            "state": "Minnesota",
+            "city": "Hibbing"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Healy Lake Airport",
+        "code": "HKB",
+        "address": {
+            "state": "Alaska",
+            "city": "Healy Lake"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Helena Regional Airport",
+        "code": "HLN",
+        "address": {
+            "state": "Montana",
+            "city": "Helena"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hoonah Airport",
+        "code": "HNH",
+        "address": {
+            "state": "Alaska",
+            "city": "Hoonah"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Honolulu International Airport",
+        "code": "HNL",
+        "address": {
+            "state": "Hawaii",
+            "city": "Honolulu"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hana Airport",
+        "code": "HNM",
+        "address": {
+            "state": "Hawaii",
+            "city": "Hana"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Haines Airport",
+        "code": "HNS",
+        "address": {
+            "state": "Alaska",
+            "city": "Haines"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lea County Regional Airport",
+        "code": "HOB",
+        "address": {
+            "state": "New Mexico",
+            "city": "Hobbs"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Homer Airport",
+        "code": "HOM",
+        "address": {
+            "state": "Alaska",
+            "city": "Homer"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Howes",
+        "code": "HON",
+        "address": {
+            "state": "South Dakota",
+            "city": "Huron"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "William P Hobby Airport",
+        "code": "HOU",
+        "address": {
+            "state": "Texas",
+            "city": "Houston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hooper Bay Airport",
+        "code": "HPB",
+        "address": {
+            "state": "Alaska",
+            "city": "Hooper Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Westchester County Airport",
+        "code": "HPN",
+        "address": {
+            "state": "New York",
+            "city": "Purchase"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Grande Valley International Airport",
+        "code": "HRL",
+        "address": {
+            "state": "Texas",
+            "city": "Harlingen"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "HSL",
+        "address": {
+            "state": "Alaska",
+            "city": "Huslia"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Huntsville International Airport",
+        "code": "HSV",
+        "address": {
+            "state": "Alabama",
+            "city": "Huntsville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tri State Walker Long Field Airport",
+        "code": "HTS",
+        "address": {
+            "state": "West Virginia",
+            "city": "Huntington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hughes",
+        "code": "HUS",
+        "address": {
+            "state": "Alaska",
+            "city": "Hughes"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tweed New Haven Airport",
+        "code": "HVN",
+        "address": {
+            "state": "Connecticut",
+            "city": "East Haven"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Havre City-County Airport",
+        "code": "HVR",
+        "address": {
+            "state": "Montana",
+            "city": "Havre"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Barnstable Boardman Polando Airport",
+        "code": "HYA",
+        "address": {
+            "state": "Massachusetts",
+            "city": "Hyannis"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "HYG",
+        "address": {
+            "state": "Alaska",
+            "city": "Hydaburg"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "SPB",
+        "code": "HYL",
+        "address": {
+            "state": "Alaska",
+            "city": "Hollis"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hays Municipal Airport",
+        "code": "HYS",
+        "address": {
+            "state": "Kansas",
+            "city": "Hays"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dulles International Airport",
+        "code": "IAD",
+        "address": {
+            "state": "Virginia",
+            "city": "Washington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "George Bush Intercontinental Airport",
+        "code": "IAH",
+        "address": {
+            "state": "Texas",
+            "city": "Houston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kiana",
+        "code": "IAN",
+        "address": {
+            "state": "Alaska",
+            "city": "Kiana"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wichita Mid-Continent Airport",
+        "code": "ICT",
+        "address": {
+            "state": "Kansas",
+            "city": "Wichita"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Fanning Field Airport",
+        "code": "IDA",
+        "address": {
+            "state": "Idaho",
+            "city": "Idaho Falls"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Laughlin-Bullhead International Airport",
+        "code": "IFP",
+        "address": {
+            "state": "Arizona",
+            "city": "Bullhead City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Igiugig",
+        "code": "IGG",
+        "address": {
+            "state": "Alaska",
+            "city": "Igiugig"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kingman Airport",
+        "code": "IGM",
+        "address": {
+            "state": "Arizona",
+            "city": "Kingman"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Iliamna Airport",
+        "code": "ILI",
+        "address": {
+            "state": "Alaska",
+            "city": "Iliamna"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wilmington International Airport",
+        "code": "ILM",
+        "address": {
+            "state": "North Carolina",
+            "city": "Wilmington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Airborne Airpark",
+        "code": "ILN",
+        "address": {
+            "state": "Ohio",
+            "city": "Wilmington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ford Airport",
+        "code": "IMT",
+        "address": {
+            "state": "Michigan",
+            "city": "Kingsford"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Indianapolis International Airport",
+        "code": "IND",
+        "address": {
+            "state": "Indiana",
+            "city": "Indianapolis"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Falls International Airport",
+        "code": "INL",
+        "address": {
+            "state": "Minnesota",
+            "city": "International Falls"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Smith Reynolds Airport",
+        "code": "INT",
+        "address": {
+            "state": "North Carolina",
+            "city": "Winston-Salem"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Imperial County Airport",
+        "code": "IPL",
+        "address": {
+            "state": "California",
+            "city": "Imperial"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Williamsport-Lycoming County Airport",
+        "code": "IPT",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Montoursville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Circle",
+        "code": "IRC",
+        "address": {
+            "state": "Alaska",
+            "city": "Circle"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "IRM",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Irma"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sloulin Field International Airport",
+        "code": "ISN",
+        "address": {
+            "state": "North Dakota",
+            "city": "Williston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kinston Jetport Stallings Airport",
+        "code": "ISO",
+        "address": {
+            "state": "North Carolina",
+            "city": "Kinston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Long Island Macarthur Airport",
+        "code": "ISP",
+        "address": {
+            "state": "New York",
+            "city": "Ronkonkoma"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tompkins County Airport",
+        "code": "ITH",
+        "address": {
+            "state": "New York",
+            "city": "Ithaca"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hilo International Airport",
+        "code": "ITO",
+        "address": {
+            "state": "Hawaii",
+            "city": "Hilo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gogebic-Iron County Airport",
+        "code": "IWD",
+        "address": {
+            "state": "Michigan",
+            "city": "Ironwood"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Inyokern Airport",
+        "code": "IYK",
+        "address": {
+            "state": "California",
+            "city": "Inyokern"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Jackson Hole Airport",
+        "code": "JAC",
+        "address": {
+            "state": "Wyoming",
+            "city": "Jackson"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Jackson International Airport",
+        "code": "JAN",
+        "address": {
+            "state": "Mississippi",
+            "city": "Pearl"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Jacksonville International Airport",
+        "code": "JAX",
+        "address": {
+            "state": "Florida",
+            "city": "Jacksonville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "John F Kennedy International Airport",
+        "code": "JFK",
+        "address": {
+            "state": "New York",
+            "city": "Jamaica"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kapalua West Maui Airport",
+        "code": "JHM",
+        "address": {
+            "state": "Hawaii",
+            "city": "Lahaina"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chautauqua County-Jamestown Airport",
+        "code": "JHW",
+        "address": {
+            "state": "New York",
+            "city": "Jamestown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Julian Carroll Airport",
+        "code": "JKL",
+        "address": {
+            "state": "Kentucky",
+            "city": "Jackson"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Joplin Regional Airport",
+        "code": "JLN",
+        "address": {
+            "state": "Missouri",
+            "city": "Webb City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Jamestown Municipal Airport",
+        "code": "JMS",
+        "address": {
+            "state": "North Dakota",
+            "city": "Jamestown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Juneau International Airport",
+        "code": "JNU",
+        "address": {
+            "state": "Alaska",
+            "city": "Juneau"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Johnstown Cambria County Airport",
+        "code": "JST",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Johnstown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kaltag",
+        "code": "KAL",
+        "address": {
+            "state": "Alaska",
+            "city": "Kaltag"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Birch Creek Airport",
+        "code": "KBC",
+        "address": {
+            "state": "Alaska",
+            "city": "Birch Creek"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "KCC",
+        "address": {
+            "state": "Alaska",
+            "city": "Coffman Cove"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chignik Fisheries Airport",
+        "code": "KCG",
+        "address": {
+            "state": "Alaska",
+            "city": "Chignik Lagoon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chignik Lagoon Airport",
+        "code": "KCL",
+        "address": {
+            "state": "Alaska",
+            "city": "Chignik Lagoon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chignik Lake Airport",
+        "code": "KCQ",
+        "address": {
+            "state": "Alaska",
+            "city": "Chignik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nanwalek",
+        "code": "KEB",
+        "address": {
+            "state": "Alaska",
+            "city": "Nanwalek"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ekwok",
+        "code": "KEK",
+        "address": {
+            "state": "Alaska",
+            "city": "Ekwok"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "KFP",
+        "address": {
+            "state": "Alaska",
+            "city": "False Pass"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Koliganek Airport",
+        "code": "KGK",
+        "address": {
+            "state": "Alaska",
+            "city": "New Koliganek"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "KGX",
+        "address": {
+            "state": "Alaska",
+            "city": "Grayling"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Koyuk",
+        "code": "KKA",
+        "address": {
+            "state": "Alaska",
+            "city": "Koyuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "KKH",
+        "address": {
+            "state": "Alaska",
+            "city": "Kongiganak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ekuk Airport",
+        "code": "KKU",
+        "address": {
+            "state": "Alaska",
+            "city": "Clarks Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kalskag",
+        "code": "KLG",
+        "address": {
+            "state": "Alaska",
+            "city": "Kalskag"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Levelock",
+        "code": "KLL",
+        "address": {
+            "state": "Alaska",
+            "city": "Levelock"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Klawock Seaplane Base",
+        "code": "KLW",
+        "address": {
+            "state": "Alaska",
+            "city": "Klawock"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "King Khalid Military",
+        "code": "KMC",
+        "address": {
+            "state": "Alaska",
+            "city": "King Khalid Mil. City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Manokotak",
+        "code": "KMO",
+        "address": {
+            "state": "Alaska",
+            "city": "Manokotak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Moser Bay",
+        "code": "KMY",
+        "address": {
+            "state": "Alaska",
+            "city": "Moser Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "KNK",
+        "address": {
+            "state": "Alaska",
+            "city": "Kakhonak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "New Stuyahok",
+        "code": "KNW",
+        "address": {
+            "state": "Alaska",
+            "city": "New Stuyahok"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kailua-Kona International Airport",
+        "code": "KOA",
+        "address": {
+            "state": "Hawaii",
+            "city": "Kailua Kona"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kotlik",
+        "code": "KOT",
+        "address": {
+            "state": "Alaska",
+            "city": "Kotlik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Point Baker Seaplane Base",
+        "code": "KPB",
+        "address": {
+            "state": "Alaska",
+            "city": "Point Baker"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "KPV",
+        "address": {
+            "state": "Alaska",
+            "city": "Perryville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Akutan Airport",
+        "code": "KQA",
+        "address": {
+            "state": "Alaska",
+            "city": "Akutan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "KSM",
+        "address": {
+            "state": "Alaska",
+            "city": "Saint Marys"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "KTB",
+        "address": {
+            "state": "Alaska",
+            "city": "Thorne Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ketchikan International Airport",
+        "code": "KTN",
+        "address": {
+            "state": "Alaska",
+            "city": "Ketchikan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "KTS",
+        "address": {
+            "state": "Alaska",
+            "city": "Teller Mission"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kasigluk",
+        "code": "KUK",
+        "address": {
+            "state": "Alaska",
+            "city": "Kasigluk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "KVC",
+        "address": {
+            "state": "Alaska",
+            "city": "King Cove"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kivalina",
+        "code": "KVL",
+        "address": {
+            "state": "Alaska",
+            "city": "Kivalina"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kwigillingok",
+        "code": "KWK",
+        "address": {
+            "state": "Alaska",
+            "city": "Kwigillingok"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Quinhagak",
+        "code": "KWN",
+        "address": {
+            "state": "Alaska",
+            "city": "Quinhagak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kwethluk Airport",
+        "code": "KWT",
+        "address": {
+            "state": "Alaska",
+            "city": "Kwethluk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kasaan SPB",
+        "code": "KXA",
+        "address": {
+            "state": "Alaska",
+            "city": "Kasaan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Karluk Airport",
+        "code": "KYK",
+        "address": {
+            "state": "Alaska",
+            "city": "Kodiak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Koyukuk",
+        "code": "KYU",
+        "address": {
+            "state": "Alaska",
+            "city": "Koyukuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lansing Capital City Airport",
+        "code": "LAN",
+        "address": {
+            "state": "Michigan",
+            "city": "Lansing"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "General Brees Field",
+        "code": "LAR",
+        "address": {
+            "state": "Wyoming",
+            "city": "Laramie"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mccarran International Airport",
+        "code": "LAS",
+        "address": {
+            "state": "Nevada",
+            "city": "Las Vegas"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lawton Municipal Airport",
+        "code": "LAW",
+        "address": {
+            "state": "Oklahoma",
+            "city": "Lawton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Los Angeles International Airport",
+        "code": "LAX",
+        "address": {
+            "state": "California",
+            "city": "Los Angeles"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lubbock International Airport",
+        "code": "LBB",
+        "address": {
+            "state": "Texas",
+            "city": "Lubbock"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Westmoreland County Airport",
+        "code": "LBE",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Latrobe"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lee Bird Field Airport",
+        "code": "LBF",
+        "address": {
+            "state": "Nebraska",
+            "city": "North Platte"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Liberal Municipal Airport",
+        "code": "LBL",
+        "address": {
+            "state": "Kansas",
+            "city": "Liberal"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lake Charles Regional Airport",
+        "code": "LCH",
+        "address": {
+            "state": "Louisiana",
+            "city": "Lake Charles"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rickenbacker International Airport",
+        "code": "LCK",
+        "address": {
+            "state": "Ohio",
+            "city": "Columbus"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lebanon Municipal Airport",
+        "code": "LEB",
+        "address": {
+            "state": "New Hampshire",
+            "city": "West Lebanon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Blue Grass Field",
+        "code": "LEX",
+        "address": {
+            "state": "Kentucky",
+            "city": "Lexington"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lafayette Regional Airport",
+        "code": "LFT",
+        "address": {
+            "state": "Louisiana",
+            "city": "Lafayette"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "LaGuardia Airport",
+        "code": "LGA",
+        "address": {
+            "state": "New York",
+            "city": "Flushing"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Long Beach Daugherty Field Airport",
+        "code": "LGB",
+        "address": {
+            "state": "California",
+            "city": "Long Beach"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lihue Airport",
+        "code": "LIH",
+        "address": {
+            "state": "Hawaii",
+            "city": "Lihue"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Adams Field Airport",
+        "code": "LIT",
+        "address": {
+            "state": "Arkansas",
+            "city": "Little Rock"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lake Union Seaplane Base",
+        "code": "LKE",
+        "address": {
+            "state": "Washington",
+            "city": "Seattle"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lake Minchumina",
+        "code": "LMA",
+        "address": {
+            "state": "Alaska",
+            "city": "Lake Minchumina"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Klamath Falls International Airport",
+        "code": "LMT",
+        "address": {
+            "state": "Oregon",
+            "city": "Klamath Falls"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lincoln Municipal Airport",
+        "code": "LNK",
+        "address": {
+            "state": "Nebraska",
+            "city": "Lincoln"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lanai Airport",
+        "code": "LNY",
+        "address": {
+            "state": "Hawaii",
+            "city": "Lanai City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Bowman Field Airport",
+        "code": "LOU",
+        "address": {
+            "state": "Kentucky",
+            "city": "Louisville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lopez Island Airport",
+        "code": "LPS",
+        "address": {
+            "state": "Washington",
+            "city": "Lopez Island"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Laredo International Airport",
+        "code": "LRD",
+        "address": {
+            "state": "Texas",
+            "city": "Laredo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "La Crosse Municipal Airport",
+        "code": "LSE",
+        "address": {
+            "state": "Wisconsin",
+            "city": "La Crosse"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kalaupapa Airport",
+        "code": "LUP",
+        "address": {
+            "state": "Hawaii",
+            "city": "Kalaupapa"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greenbrier Valley Airport",
+        "code": "LWB",
+        "address": {
+            "state": "West Virginia",
+            "city": "Lewisburg"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lewiston Nez Perce County Airport",
+        "code": "LWS",
+        "address": {
+            "state": "Idaho",
+            "city": "Lewiston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lewistown Municipal Airport",
+        "code": "LWT",
+        "address": {
+            "state": "Montana",
+            "city": "Lewistown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lynchburg Regional Airport",
+        "code": "LYH",
+        "address": {
+            "state": "Virginia",
+            "city": "Lynchburg"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Midland International Airport",
+        "code": "MAF",
+        "address": {
+            "state": "Texas",
+            "city": "Midland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eugenio Maria de Hostos Airport",
+        "code": "MAZ",
+        "address": {
+            "state": "Puerto Rico",
+            "city": "Mayaguez"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Manistee County-Blacker Airport",
+        "code": "MBL",
+        "address": {
+            "state": "Michigan",
+            "city": "Manistee"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "MBS International Airport",
+        "code": "MBS",
+        "address": {
+            "state": "Michigan",
+            "city": "Freeland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Merced Municipal Airport-Macready Field",
+        "code": "MCE",
+        "address": {
+            "state": "California",
+            "city": "Merced"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mcgrath Airport",
+        "code": "MCG",
+        "address": {
+            "state": "Alaska",
+            "city": "Mcgrath"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kansas City International Airport",
+        "code": "MCI",
+        "address": {
+            "state": "Missouri",
+            "city": "Kansas City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mccook Municipal Airport",
+        "code": "MCK",
+        "address": {
+            "state": "Nebraska",
+            "city": "Mccook"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Middle Georgia Regional Airport",
+        "code": "MCN",
+        "address": {
+            "state": "Georgia",
+            "city": "Macon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Orlando International Airport",
+        "code": "MCO",
+        "address": {
+            "state": "Florida",
+            "city": "Orlando"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mason City Municipal Airport",
+        "code": "MCW",
+        "address": {
+            "state": "Iowa",
+            "city": "Clear Lake"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Harrisburg International Airport",
+        "code": "MDT",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Middletown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chicago Midway International Airport",
+        "code": "MDW",
+        "address": {
+            "state": "Illinois",
+            "city": "Chicago"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Key Field Airport",
+        "code": "MEI",
+        "address": {
+            "state": "Mississippi",
+            "city": "Meridian"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Memphis International Airport",
+        "code": "MEM",
+        "address": {
+            "state": "Tennessee",
+            "city": "Memphis"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Miller International Airport",
+        "code": "MFE",
+        "address": {
+            "state": "Texas",
+            "city": "Mcallen"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rogue Valley International-Medford Airport",
+        "code": "MFR",
+        "address": {
+            "state": "Oregon",
+            "city": "Central Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Montgomery Regional Airport",
+        "code": "MGM",
+        "address": {
+            "state": "Alabama",
+            "city": "Montgomery"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Morgantown Municipal Airport-Hart Field",
+        "code": "MGW",
+        "address": {
+            "state": "West Virginia",
+            "city": "Morgantown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Manhattan Municipal Airport",
+        "code": "MHK",
+        "address": {
+            "state": "Kansas",
+            "city": "Manhattan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Manchester-Boston Regional Airport",
+        "code": "MHT",
+        "address": {
+            "state": "New Hampshire",
+            "city": "Manchester"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Miami International Airport",
+        "code": "MIA",
+        "address": {
+            "state": "Florida",
+            "city": "Miami"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "General Mitchell International Airport",
+        "code": "MKE",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Milwaukee"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Muskegon County Airport",
+        "code": "MKG",
+        "address": {
+            "state": "Michigan",
+            "city": "Muskegon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Molokai Airport",
+        "code": "MKK",
+        "address": {
+            "state": "Hawaii",
+            "city": "Hoolehua"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Melbourne International Airport",
+        "code": "MLB",
+        "address": {
+            "state": "Florida",
+            "city": "Melbourne"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Quad City Airport",
+        "code": "MLI",
+        "address": {
+            "state": "Illinois",
+            "city": "Coal Valley"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Marshall",
+        "code": "MLL",
+        "address": {
+            "state": "Alaska",
+            "city": "Marshall"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Monroe Regional Airport",
+        "code": "MLU",
+        "address": {
+            "state": "Louisiana",
+            "city": "Monroe"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Manley Hot Springs",
+        "code": "MLY",
+        "address": {
+            "state": "Alaska",
+            "city": "Manley Hot Springs"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Minto",
+        "code": "MNT",
+        "address": {
+            "state": "Alaska",
+            "city": "Minto"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mobile Regional Airport",
+        "code": "MOB",
+        "address": {
+            "state": "Alabama",
+            "city": "Mobile"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Modesto City County Airport-Harry Sham Field",
+        "code": "MOD",
+        "address": {
+            "state": "California",
+            "city": "Modesto"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Minot International Airport",
+        "code": "MOT",
+        "address": {
+            "state": "North Dakota",
+            "city": "Minot"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mountain Village",
+        "code": "MOU",
+        "address": {
+            "state": "Alaska",
+            "city": "Mountain Village"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sawyer International Airport",
+        "code": "MQT",
+        "address": {
+            "state": "Michigan",
+            "city": "Marquette"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Monterey Peninsula Airport",
+        "code": "MRY",
+        "address": {
+            "state": "California",
+            "city": "Monterey"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Muscle Shoals Regional Airport",
+        "code": "MSL",
+        "address": {
+            "state": "Alabama",
+            "city": "Muscle Shoals"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dane County Regional Airport-Truax Field",
+        "code": "MSN",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Madison"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Missoula International Airport",
+        "code": "MSO",
+        "address": {
+            "state": "Montana",
+            "city": "Missoula"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Minneapolis St Paul International Airport",
+        "code": "MSP",
+        "address": {
+            "state": "Minnesota",
+            "city": "St. Paul"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Massena International Airport",
+        "code": "MSS",
+        "address": {
+            "state": "New York",
+            "city": "Massena"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "New Orleans International Airport",
+        "code": "MSY",
+        "address": {
+            "state": "Louisiana",
+            "city": "Kenner"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Montrose Regional Airport",
+        "code": "MTJ",
+        "address": {
+            "state": "Colorado",
+            "city": "Montrose"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Metlakatla Sea Plane Base",
+        "code": "MTM",
+        "address": {
+            "state": "Alaska",
+            "city": "Metlakatla"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Waimea Kohala Airport",
+        "code": "MUE",
+        "address": {
+            "state": "Hawaii",
+            "city": "Kamuela"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Marthas Vineyard Airport",
+        "code": "MVY",
+        "address": {
+            "state": "Massachusetts",
+            "city": "Vineyard Haven"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Williamson County Regional Airport",
+        "code": "MWA",
+        "address": {
+            "state": "Illinois",
+            "city": "Marion"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mekoryuk",
+        "code": "MYU",
+        "address": {
+            "state": "Alaska",
+            "city": "Mekoryuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chenega",
+        "code": "NCN",
+        "address": {
+            "state": "Alaska",
+            "city": "New Chenega"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nikolai",
+        "code": "NIB",
+        "address": {
+            "state": "Alaska",
+            "city": "Nikolai"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Honolulu International Airport",
+        "code": "NIU",
+        "address": {
+            "state": "Hawaii",
+            "city": "Honolulu"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Naukiti Airport",
+        "code": "NKI",
+        "address": {
+            "state": "Alaska",
+            "city": "Naukiti"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "NLG",
+        "address": {
+            "state": "Alaska",
+            "city": "Nelson Lagoon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nightmute Airport",
+        "code": "NME",
+        "address": {
+            "state": "Alaska",
+            "city": "Nightmute"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "NNL",
+        "address": {
+            "state": "Alaska",
+            "city": "Nondalton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nuiqsut",
+        "code": "NUI",
+        "address": {
+            "state": "Alaska",
+            "city": "Nuiqsut"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nulato Airport",
+        "code": "NUL",
+        "address": {
+            "state": "Alaska",
+            "city": "Nulato"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "NUP",
+        "address": {
+            "state": "Alaska",
+            "city": "Nunapitchuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "NYA",
+        "address": {
+            "state": "Minnesota",
+            "city": "Norwood Young America"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Albert J Ellis Airport",
+        "code": "OAJ",
+        "address": {
+            "state": "North Carolina",
+            "city": "Richlands"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Oakland International Airport",
+        "code": "OAK",
+        "address": {
+            "state": "California",
+            "city": "Oakland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kobuk Airport",
+        "code": "OBU",
+        "address": {
+            "state": "Alaska",
+            "city": "Kobuk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Oak Harbor Airpark",
+        "code": "ODW",
+        "address": {
+            "state": "Washington",
+            "city": "Oak Harbor"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Kahului Airport",
+        "code": "OGG",
+        "address": {
+            "state": "Hawaii",
+            "city": "Kahului"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ogdensburg International Airport",
+        "code": "OGS",
+        "address": {
+            "state": "New York",
+            "city": "Ogdensburg"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Will Rogers World Airport",
+        "code": "OKC",
+        "address": {
+            "state": "Oklahoma",
+            "city": "Oklahoma City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "L. M. Clayton Airport",
+        "code": "OLF",
+        "address": {
+            "state": "Montana",
+            "city": "Wolf Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eppley Airfield",
+        "code": "OMA",
+        "address": {
+            "state": "Nebraska",
+            "city": "Omaha"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Nome Airport",
+        "code": "OME",
+        "address": {
+            "state": "Alaska",
+            "city": "Nome"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "The Oneill Municipal Airport",
+        "code": "ONL",
+        "address": {
+            "state": "Nebraska",
+            "city": "O'neill"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ontario International Airport",
+        "code": "ONT",
+        "address": {
+            "state": "California",
+            "city": "Ontario"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Toksook Bay",
+        "code": "OOK",
+        "address": {
+            "state": "Alaska",
+            "city": "Toksook Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chicago O'Hare International Airport",
+        "code": "ORD",
+        "address": {
+            "state": "Illinois",
+            "city": "Chicago"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Norfolk International Airport",
+        "code": "ORF",
+        "address": {
+            "state": "Virginia",
+            "city": "Norfolk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Worcester Municipal Airport",
+        "code": "ORH",
+        "address": {
+            "state": "Massachusetts",
+            "city": "Worcester"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Curtis Memorial",
+        "code": "ORV",
+        "address": {
+            "state": "Alaska",
+            "city": "Noorvik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "North Bend Municipal Airport",
+        "code": "OTH",
+        "address": {
+            "state": "Oregon",
+            "city": "North Bend"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ralph Wien Memorial Airport",
+        "code": "OTZ",
+        "address": {
+            "state": "Alaska",
+            "city": "Kotzebue"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Boscobel Airport",
+        "code": "OVS",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Boscobel"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Oxnard Airport",
+        "code": "OXR",
+        "address": {
+            "state": "California",
+            "city": "Oxnard"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Barkley Regional Airport",
+        "code": "PAH",
+        "address": {
+            "state": "Kentucky",
+            "city": "West Paducah"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Palm Beach International Airport",
+        "code": "PBI",
+        "address": {
+            "state": "Florida",
+            "city": "West Palm Beach"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Painter Creek",
+        "code": "PCE",
+        "address": {
+            "state": "Alaska",
+            "city": "Painter Creek"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pedro Bay",
+        "code": "PDB",
+        "address": {
+            "state": "Alaska",
+            "city": "Pedro Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eastern Oregon Regional Airport",
+        "code": "PDT",
+        "address": {
+            "state": "Oregon",
+            "city": "Pendleton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Portland International Airport",
+        "code": "PDX",
+        "address": {
+            "state": "Oregon",
+            "city": "Portland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pelican Sea Plane Base",
+        "code": "PEC",
+        "address": {
+            "state": "Alaska",
+            "city": "Pelican"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Panama City Bay County Airport",
+        "code": "PFN",
+        "address": {
+            "state": "Florida",
+            "city": "Panama City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Page Municipal Airport",
+        "code": "PGA",
+        "address": {
+            "state": "Arizona",
+            "city": "Page"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Port Graham",
+        "code": "PGM",
+        "address": {
+            "state": "Alaska",
+            "city": "Port Graham"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pitt Greenville Airport",
+        "code": "PGV",
+        "address": {
+            "state": "North Carolina",
+            "city": "Greenville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Newport News-Williamsburg International Airport",
+        "code": "PHF",
+        "address": {
+            "state": "Virginia",
+            "city": "Newport News"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Philadelphia International Airport",
+        "code": "PHL",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Philadelphia"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Point Hope Airport",
+        "code": "PHO",
+        "address": {
+            "state": "Alaska",
+            "city": "Point Hope"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sky Harbor International Airport",
+        "code": "PHX",
+        "address": {
+            "state": "Arizona",
+            "city": "Phoenix"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greater Peoria Regional Airport",
+        "code": "PIA",
+        "address": {
+            "state": "Illinois",
+            "city": "Peoria"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pine Belt Regional Airport",
+        "code": "PIB",
+        "address": {
+            "state": "Mississippi",
+            "city": "Moselle"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "St. Petersburg-Clearwater International Airport",
+        "code": "PIE",
+        "address": {
+            "state": "Florida",
+            "city": "Clearwater"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pocatello Municipal Airport",
+        "code": "PIH",
+        "address": {
+            "state": "Idaho",
+            "city": "Pocatello"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pilot Point Airport",
+        "code": "PIP",
+        "address": {
+            "state": "Alaska",
+            "city": "Pilot Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pierre Municipal Airport",
+        "code": "PIR",
+        "address": {
+            "state": "South Dakota",
+            "city": "Pierre"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pittsburgh International Airport",
+        "code": "PIT",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "Coraopolis"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Dew Station",
+        "code": "PIZ",
+        "address": {
+            "state": "Alaska",
+            "city": "Point Lay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "PKA",
+        "address": {
+            "state": "Alaska",
+            "city": "Napaskiak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wood County Airport-Gill Robb Wilson Field",
+        "code": "PKB",
+        "address": {
+            "state": "West Virginia",
+            "city": "Williamstown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pellston Regional Airport",
+        "code": "PLN",
+        "address": {
+            "state": "Michigan",
+            "city": "Pellston"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pensacola Regional Airport",
+        "code": "PNS",
+        "address": {
+            "state": "Florida",
+            "city": "Pensacola"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pago Pago International Airport",
+        "code": "PPG",
+        "address": {
+            "state": "American Samoa",
+            "city": "Pago Pago"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "PPV",
+        "address": {
+            "state": "Alaska",
+            "city": "Port Protection"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Northern Maine Regional Airport",
+        "code": "PQI",
+        "address": {
+            "state": "Maine",
+            "city": "Presque Isle"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pilot Station",
+        "code": "PQS",
+        "address": {
+            "state": "Alaska",
+            "city": "Pilot Station"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ernest A Love Field Airport",
+        "code": "PRC",
+        "address": {
+            "state": "Arizona",
+            "city": "Prescott"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tri Cities Airport",
+        "code": "PSC",
+        "address": {
+            "state": "Washington",
+            "city": "Pasco"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mercedita Airport",
+        "code": "PSE",
+        "address": {
+            "state": "Puerto Rico",
+            "city": "Coto Laurel"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Petersburg James A Johnson Airport",
+        "code": "PSG",
+        "address": {
+            "state": "Alaska",
+            "city": "Petersburg"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Palm Springs International Airport",
+        "code": "PSP",
+        "address": {
+            "state": "California",
+            "city": "Palm Springs"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Port Alsworth",
+        "code": "PTA",
+        "address": {
+            "state": "Alaska",
+            "city": "Port Alsworth"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Port Heiden Airport",
+        "code": "PTH",
+        "address": {
+            "state": "Alaska",
+            "city": "Port Heiden"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Platinum",
+        "code": "PTU",
+        "address": {
+            "state": "Alaska",
+            "city": "Platinum"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pueblo Memorial Airport",
+        "code": "PUB",
+        "address": {
+            "state": "Colorado",
+            "city": "Pueblo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pullman-Moscow Regional Airport",
+        "code": "PUW",
+        "address": {
+            "state": "Washington",
+            "city": "Pullman"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Provincetown Municipal Airport",
+        "code": "PVC",
+        "address": {
+            "state": "Massachusetts",
+            "city": "Provincetown"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Theodore Francis Green State Airport",
+        "code": "PVD",
+        "address": {
+            "state": "Rhode Island",
+            "city": "Warwick"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Pal Waukee Airport",
+        "code": "PWK",
+        "address": {
+            "state": "Illinois",
+            "city": "Wheeling"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Jetport International Airport",
+        "code": "PWM",
+        "address": {
+            "state": "Maine",
+            "city": "Portland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "QUL",
+        "address": {
+            "state": "Missouri",
+            "city": "Qulin"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rapid City Regional Airport",
+        "code": "RAP",
+        "address": {
+            "state": "South Dakota",
+            "city": "Rapid City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Brooks Lodge",
+        "code": "RBH",
+        "address": {
+            "state": "Alaska",
+            "city": "Brooks Lodge"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Roundup Airport",
+        "code": "RBX",
+        "address": {
+            "state": "Montana",
+            "city": "Roundup"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ruby Airport",
+        "code": "RBY",
+        "address": {
+            "state": "Alaska",
+            "city": "Ruby"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Roche Harbor Airport",
+        "code": "RCE",
+        "address": {
+            "state": "Washington",
+            "city": "Friday Harbor"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "RCP",
+        "address": {
+            "state": "Alaska",
+            "city": "Cinder River"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Red Dog",
+        "code": "RDB",
+        "address": {
+            "state": "Alaska",
+            "city": "Red Dog"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Redding Municipal Airport",
+        "code": "RDD",
+        "address": {
+            "state": "California",
+            "city": "Redding"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Roberts Field Airport",
+        "code": "RDM",
+        "address": {
+            "state": "Oregon",
+            "city": "Redmond"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Durham International Airport",
+        "code": "RDU",
+        "address": {
+            "state": "North Carolina",
+            "city": "Raleigh/Durham"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Red Devil",
+        "code": "RDV",
+        "address": {
+            "state": "Alaska",
+            "city": "Red Devil"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greater Rockford Airport",
+        "code": "RFD",
+        "address": {
+            "state": "Illinois",
+            "city": "Rockford"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rhinelander-Oneida County Airport",
+        "code": "RHI",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Rhinelander"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Richmond International Airport",
+        "code": "RIC",
+        "address": {
+            "state": "Virginia",
+            "city": "Richmond"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Riverton Regional Airport",
+        "code": "RIW",
+        "address": {
+            "state": "Wyoming",
+            "city": "Riverton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Knox County Regional Airport",
+        "code": "RKD",
+        "address": {
+            "state": "Maine",
+            "city": "Owls Head"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rock Springs-Sweetwater County Airport",
+        "code": "RKS",
+        "address": {
+            "state": "Wyoming",
+            "city": "Rock Springs"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rampart",
+        "code": "RMP",
+        "address": {
+            "state": "Alaska",
+            "city": "Rampart"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Reno-Tahoe International Airport",
+        "code": "RNO",
+        "address": {
+            "state": "Nevada",
+            "city": "Reno"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Roanoke Regional Airport-Woodrum Field",
+        "code": "ROA",
+        "address": {
+            "state": "Virginia",
+            "city": "Roanoke"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Greater Rochester International Airport",
+        "code": "ROC",
+        "address": {
+            "state": "New York",
+            "city": "Rochester"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rota International Airport",
+        "code": "ROP",
+        "address": {
+            "state": "Northern Mariana Islands",
+            "city": "Rota"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Roswell Industrial Air Center",
+        "code": "ROW",
+        "address": {
+            "state": "New Mexico",
+            "city": "Roswell"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rosario Seaplane Base",
+        "code": "RSJ",
+        "address": {
+            "state": "Washington",
+            "city": "Olga"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rochester International Airport",
+        "code": "RST",
+        "address": {
+            "state": "Minnesota",
+            "city": "Rochester"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Southwest Florida International Airport",
+        "code": "RSW",
+        "address": {
+            "state": "Florida",
+            "city": "Fort Myers"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Rutland State Airport",
+        "code": "RUT",
+        "address": {
+            "state": "Vermont",
+            "city": "North Clarendon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "San Diego International Airport",
+        "code": "SAN",
+        "address": {
+            "state": "California",
+            "city": "San Diego"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "San Antonio International Airport",
+        "code": "SAT",
+        "address": {
+            "state": "Texas",
+            "city": "San Antonio"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Savannah International Airport",
+        "code": "SAV",
+        "address": {
+            "state": "Georgia",
+            "city": "Savannah"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Santa Barbara Municipal Airport",
+        "code": "SBA",
+        "address": {
+            "state": "California",
+            "city": "Goleta"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "South Bend Regional Airport",
+        "code": "SBN",
+        "address": {
+            "state": "Indiana",
+            "city": "South Bend"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "San Luis Obispo County Airport",
+        "code": "SBP",
+        "address": {
+            "state": "California",
+            "city": "San Luis Obispo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Salisbury-Wicomico County Regional Airport",
+        "code": "SBY",
+        "address": {
+            "state": "Maryland",
+            "city": "Salisbury"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Deadhorse Airport",
+        "code": "SCC",
+        "address": {
+            "state": "Alaska",
+            "city": "Prudhoe Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "University Park Airport",
+        "code": "SCE",
+        "address": {
+            "state": "Pennsylvania",
+            "city": "State College"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Stockton Metropolitan Airport",
+        "code": "SCK",
+        "address": {
+            "state": "California",
+            "city": "Stockton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Louisville International Airport",
+        "code": "SDF",
+        "address": {
+            "state": "Kentucky",
+            "city": "Louisville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sand Point Airport",
+        "code": "SDP",
+        "address": {
+            "state": "Alaska",
+            "city": "Sand Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sidney Richland Municipal Airport",
+        "code": "SDY",
+        "address": {
+            "state": "Montana",
+            "city": "Sidney"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tacoma International Airport",
+        "code": "SEA",
+        "address": {
+            "state": "Washington",
+            "city": "Seattle"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Orlando Sanford International Airport",
+        "code": "SFB",
+        "address": {
+            "state": "Florida",
+            "city": "Sanford"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "San Francisco International Airport",
+        "code": "SFO",
+        "address": {
+            "state": "California",
+            "city": "San Francisco"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Springfield Regional Airport",
+        "code": "SGF",
+        "address": {
+            "state": "Missouri",
+            "city": "Springfield"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "St George Municipal Airport",
+        "code": "SGU",
+        "address": {
+            "state": "Utah",
+            "city": "St. George"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Skagway Airport",
+        "code": "SGY",
+        "address": {
+            "state": "Alaska",
+            "city": "Skagway"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Shenandoah Valley Regional Airport",
+        "code": "SHD",
+        "address": {
+            "state": "Virginia",
+            "city": "Weyers Cave"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Shungnak Airport",
+        "code": "SHG",
+        "address": {
+            "state": "Alaska",
+            "city": "Shungnak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Shishmaref",
+        "code": "SHH",
+        "address": {
+            "state": "Alaska",
+            "city": "Shishmaref"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sheridan County Airport",
+        "code": "SHR",
+        "address": {
+            "state": "Wyoming",
+            "city": "Sheridan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Shreveport Regional Airport",
+        "code": "SHV",
+        "address": {
+            "state": "Louisiana",
+            "city": "Shreveport"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Shageluk",
+        "code": "SHX",
+        "address": {
+            "state": "Alaska",
+            "city": "Shageluk"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Isla Grande Airport",
+        "code": "SIG",
+        "address": {
+            "state": "Puerto Rico",
+            "city": "San Juan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sitka Airport",
+        "code": "SIT",
+        "address": {
+            "state": "Alaska",
+            "city": "Sitka"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Norman Y Mineta San Jose International Airport",
+        "code": "SJC",
+        "address": {
+            "state": "California",
+            "city": "San Jose"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mathis Field Airport",
+        "code": "SJT",
+        "address": {
+            "state": "Texas",
+            "city": "San Angelo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Luis Munoz Marin Airport",
+        "code": "SJU",
+        "address": {
+            "state": "Puerto Rico",
+            "city": "Carolina"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Shaktoolik",
+        "code": "SKK",
+        "address": {
+            "state": "Alaska",
+            "city": "Shaktoolik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Salt Lake City International Airport",
+        "code": "SLC",
+        "address": {
+            "state": "Utah",
+            "city": "Salt Lake City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mcnary Field Airport",
+        "code": "SLE",
+        "address": {
+            "state": "Oregon",
+            "city": "Salem"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Adirondack Regional Airport",
+        "code": "SLK",
+        "address": {
+            "state": "New York",
+            "city": "Saranac Lake"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Salina Municipal Airport",
+        "code": "SLN",
+        "address": {
+            "state": "Kansas",
+            "city": "Salina"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sleetmute Airport",
+        "code": "SLQ",
+        "address": {
+            "state": "Alaska",
+            "city": "Sleetmute"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sacramento International Airport",
+        "code": "SMF",
+        "address": {
+            "state": "California",
+            "city": "Sacramento"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "SMK",
+        "address": {
+            "state": "Alaska",
+            "city": "St Michael"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lemhi County Airport",
+        "code": "SMN",
+        "address": {
+            "state": "Idaho",
+            "city": "Salmon"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Santa Maria Public Airport",
+        "code": "SMX",
+        "address": {
+            "state": "California",
+            "city": "Santa Maria"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "John Wayne Airport",
+        "code": "SNA",
+        "address": {
+            "state": "California",
+            "city": "Santa Ana"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Saint Paul Island",
+        "code": "SNP",
+        "address": {
+            "state": "Alaska",
+            "city": "Saint Paul Island"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "SOV",
+        "address": {
+            "state": "Alaska",
+            "city": "Seldovia"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "St Thomas Seaplane Base",
+        "code": "SPB",
+        "address": {
+            "state": "US Virgin Islands",
+            "city": "Charlotte Amalie"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Capital Airport",
+        "code": "SPI",
+        "address": {
+            "state": "Illinois",
+            "city": "Springfield"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Saipan International Airport",
+        "code": "SPN",
+        "address": {
+            "state": "Northern Mariana Islands",
+            "city": "Saipan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sarasota Bradenton Airport",
+        "code": "SRQ",
+        "address": {
+            "state": "Florida",
+            "city": "Sarasota"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "SRV",
+        "address": {
+            "state": "Alaska",
+            "city": "Stony River"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Christiansted Harbor Seaplane Base",
+        "code": "SSB",
+        "address": {
+            "state": "US Virgin Islands",
+            "city": "Christiansted"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "St Cloud Regional Airport",
+        "code": "STC",
+        "address": {
+            "state": "Minnesota",
+            "city": "St. Cloud"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "STG",
+        "address": {
+            "state": "Alaska",
+            "city": "St George Island"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Lambert St Louis International Airport",
+        "code": "STL",
+        "address": {
+            "state": "Missouri",
+            "city": "St. Louis"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sonoma County Airport",
+        "code": "STS",
+        "address": {
+            "state": "California",
+            "city": "Windsor"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cyril E King International Airport",
+        "code": "STT",
+        "address": {
+            "state": "US Virgin Islands",
+            "city": "Charlotte Amalie"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Henry E Rohlson International Airport",
+        "code": "STX",
+        "address": {
+            "state": "US Virgin Islands",
+            "city": "Frederiksted"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Friedman Memorial Airport",
+        "code": "SUN",
+        "address": {
+            "state": "Idaho",
+            "city": "Hailey"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sioux Gateway Airport",
+        "code": "SUX",
+        "address": {
+            "state": "Iowa",
+            "city": "Sioux City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "SVA",
+        "address": {
+            "state": "Alaska",
+            "city": "Savoonga"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Silver City-Grant County Airport",
+        "code": "SVC",
+        "address": {
+            "state": "New Mexico",
+            "city": "Silver City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Stevens Village",
+        "code": "SVS",
+        "address": {
+            "state": "Alaska",
+            "city": "Stevens Village"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Stewart International Airport",
+        "code": "SWF",
+        "address": {
+            "state": "New York",
+            "city": "New Windsor"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Sheldon SPB",
+        "code": "SXP",
+        "address": {
+            "state": "Alaska",
+            "city": "Sheldon Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Seal Bay Airport",
+        "code": "SYB",
+        "address": {
+            "state": "Alaska",
+            "city": "Kodiak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Hancock International Airport",
+        "code": "SYR",
+        "address": {
+            "state": "New York",
+            "city": "Syracuse"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ralph Calhoun",
+        "code": "TAL",
+        "address": {
+            "state": "Alaska",
+            "city": "Tanana"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Waynesville Regional Airport At Forney Field",
+        "code": "TBN",
+        "address": {
+            "state": "Missouri",
+            "city": "Fort Leonard Wood"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Takotna",
+        "code": "TCT",
+        "address": {
+            "state": "Alaska",
+            "city": "Takotna"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Teterboro Airport",
+        "code": "TEB",
+        "address": {
+            "state": "New Jersey",
+            "city": "Teterboro"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tatitlek Seaplane Base",
+        "code": "TEK",
+        "address": {
+            "state": "Alaska",
+            "city": "Valdez"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Telluride Regional Airport",
+        "code": "TEX",
+        "address": {
+            "state": "Colorado",
+            "city": "Telluride"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Gibson County Airport",
+        "code": "TGC",
+        "address": {
+            "state": "Tennessee",
+            "city": "Milan"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "",
+        "code": "TKJ",
+        "address": {
+            "state": "Alaska",
+            "city": "Tok"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Teller",
+        "code": "TLA",
+        "address": {
+            "state": "Alaska",
+            "city": "Teller"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tallahassee Regional Airport",
+        "code": "TLH",
+        "address": {
+            "state": "Florida",
+            "city": "Tallahassee"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tuluksak",
+        "code": "TLT",
+        "address": {
+            "state": "Alaska",
+            "city": "Tuluksak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tununak Airport",
+        "code": "TNK",
+        "address": {
+            "state": "Alaska",
+            "city": "Tununak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Togiak Village",
+        "code": "TOG",
+        "address": {
+            "state": "Alaska",
+            "city": "Togiak Village"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Toledo Express Airport",
+        "code": "TOL",
+        "address": {
+            "state": "Ohio",
+            "city": "Swanton"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tampa International Airport",
+        "code": "TPA",
+        "address": {
+            "state": "Florida",
+            "city": "Tampa"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tri-Cities Regional Airport",
+        "code": "TRI",
+        "address": {
+            "state": "Tennessee",
+            "city": "Blountville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tulsa International Airport",
+        "code": "TUL",
+        "address": {
+            "state": "Oklahoma",
+            "city": "Tulsa"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tupelo Municipal-C D Lemons Airport",
+        "code": "TUP",
+        "address": {
+            "state": "Mississippi",
+            "city": "Tupelo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tucson International Airport",
+        "code": "TUS",
+        "address": {
+            "state": "Arizona",
+            "city": "Tucson"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Cherry Capital Airport",
+        "code": "TVC",
+        "address": {
+            "state": "Michigan",
+            "city": "Traverse City"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Thief River Falls Regional Airport",
+        "code": "TVF",
+        "address": {
+            "state": "Minnesota",
+            "city": "Thief River Falls"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Twin Hills",
+        "code": "TWA",
+        "address": {
+            "state": "Alaska",
+            "city": "Twin Hills"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Twin Falls-Sun Valley Regional Airport",
+        "code": "TWF",
+        "address": {
+            "state": "Idaho",
+            "city": "Twin Falls"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Texarkana Regional Airport",
+        "code": "TXK",
+        "address": {
+            "state": "Arkansas",
+            "city": "Texarkana"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tyler Pounds Field Airport",
+        "code": "TYR",
+        "address": {
+            "state": "Texas",
+            "city": "Tyler"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Mcghee Tyson Airport",
+        "code": "TYS",
+        "address": {
+            "state": "Tennessee",
+            "city": "Knoxville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Ugashik Bay Airport",
+        "code": "UGB",
+        "address": {
+            "state": "Alaska",
+            "city": "Pilot Point"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Uganik Airport",
+        "code": "UGI",
+        "address": {
+            "state": "Alaska",
+            "city": "Kodiak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Quincy Municipal Airport-Baldwin Field",
+        "code": "UIN",
+        "address": {
+            "state": "Illinois",
+            "city": "Quincy"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Unalakleet",
+        "code": "UNK",
+        "address": {
+            "state": "Alaska",
+            "city": "Unalakleet"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Chevak Airport",
+        "code": "VAK",
+        "address": {
+            "state": "Alaska",
+            "city": "Hooper Bay"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "VBM",
+        "address": {
+            "state": "Alaska",
+            "city": "Blue Mountain"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Victoria Regional Airport",
+        "code": "VCT",
+        "address": {
+            "state": "Texas",
+            "city": "Victoria"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Valdez Airport",
+        "code": "VDZ",
+        "address": {
+            "state": "Alaska",
+            "city": "Valdez"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Venetie",
+        "code": "VEE",
+        "address": {
+            "state": "Alaska",
+            "city": "Venetie"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Vernal Airport",
+        "code": "VEL",
+        "address": {
+            "state": "Utah",
+            "city": "Vernal"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Visalia Municipal Airport",
+        "code": "VIS",
+        "address": {
+            "state": "California",
+            "city": "Visalia"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Valdosta Regional Airport",
+        "code": "VLD",
+        "address": {
+            "state": "Georgia",
+            "city": "Valdosta"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Eglin Air Force Base",
+        "code": "VPS",
+        "address": {
+            "state": "Florida",
+            "city": "Eglin Village"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Aeropuerto Antonio Rivera Rodríguez",
+        "code": "VQS",
+        "address": {
+            "state": "Puerto Rico",
+            "city": "Puerto Ferro"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Wales",
+        "code": "WAA",
+        "address": {
+            "state": "Alaska",
+            "city": "Wales"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Stebbins",
+        "code": "WBB",
+        "address": {
+            "state": "Alaska",
+            "city": "Stebbins"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "WBQ",
+        "address": {
+            "state": "Alaska",
+            "city": "Beaver"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Aleknagik",
+        "code": "WKK",
+        "address": {
+            "state": "Alaska",
+            "city": "Aleknagik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "WLK",
+        "address": {
+            "state": "Alaska",
+            "city": "Selawik"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Meyers Chuck",
+        "code": "WMK",
+        "address": {
+            "state": "Alaska",
+            "city": "Meyers Chuck"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "White Mountain",
+        "code": "WMO",
+        "address": {
+            "state": "Alaska",
+            "city": "White Mountain"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Napaskiak",
+        "code": "WNA",
+        "address": {
+            "state": "Alaska",
+            "city": "Napakiak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Worland Municipal Airport",
+        "code": "WRL",
+        "address": {
+            "state": "Wyoming",
+            "city": "Worland"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Naknek",
+        "code": "WSN",
+        "address": {
+            "state": "Alaska",
+            "city": "South Naknek"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Westerly State Airport",
+        "code": "WST",
+        "address": {
+            "state": "Rhode Island",
+            "city": "Westerly"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "United States",
+        "code": "WSX",
+        "address": {
+            "state": "Washington",
+            "city": "Westsound"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "WTK",
+        "address": {
+            "state": "Alaska",
+            "city": "Noatak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Tuntutuliak",
+        "code": "WTL",
+        "address": {
+            "state": "Alaska",
+            "city": "Tuntutuliak"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "WWP",
+        "address": {
+            "state": "Alaska",
+            "city": "Whale Pass"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Alaska",
+        "code": "WWT",
+        "address": {
+            "state": "Alaska",
+            "city": "Newtok"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yellowstone Airport",
+        "code": "WYS",
+        "address": {
+            "state": "Montana",
+            "city": "West Yellowstone"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Northwest Arkansas Regional Airport",
+        "code": "XNA",
+        "address": {
+            "state": "Arkansas",
+            "city": "Bentonville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "York",
+        "code": "XNY",
+        "address": {
+            "state": "New York",
+            "city": "New York"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Longville Municipal Airport",
+        "code": "XVG",
+        "address": {
+            "state": "Minnesota",
+            "city": "Longville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yakutat Airport",
+        "code": "YAK",
+        "address": {
+            "state": "Alaska",
+            "city": "Yakutat"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yakima Air Terminal",
+        "code": "YKM",
+        "address": {
+            "state": "Washington",
+            "city": "Yakima"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Youngstown-Warren Regional Airport",
+        "code": "YNG",
+        "address": {
+            "state": "Ohio",
+            "city": "Vienna"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Yuma International Airport",
+        "code": "YUM",
+        "address": {
+            "state": "Arizona",
+            "city": "Yuma"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "New York",
+        "code": "ZFZ",
+        "address": {
+            "state": "New York",
+            "city": "Buffalo"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "General Mitchell International Airport",
+        "code": "ZML",
+        "address": {
+            "state": "Wisconsin",
+            "city": "Milwaukee"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Louisville International Airport",
+        "code": "ZTV",
+        "address": {
+            "state": "Kentucky",
+            "city": "Louisville"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Black Rock Airport",
+        "code": "ZUN",
+        "address": {
+            "state": "New Mexico",
+            "city": "Zuni"
+        },
+        "type": "Airports"
+    },
+    {
+        "name": "Illinois",
+        "code": "ZWV",
+        "address": {
+            "state": "Illinois",
+            "city": "Glenview"
+        },
+        "type": "Airports"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "number": "1200",
+        "airline": {
+            "code": "AA"
+        },
+        "departureAirport":{
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "code": "ATL"
+            
+        },
+        "arrivalAirport":{
+            "name": "Douglas International Airport",
+            "code": "CLT"
+        }
+    },
+    {
+        "number": "1201",
+        "airline": {
+            "code": "AA"
+        },
+        "departureAirport":{
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "code": "ATL"
+            
+        },
+        "arrivalAirport":{
+            "name": "Denver International Airport",
+            "code": "DEN"
+        }
+    },
+    {
+        "number": "1202",
+        "airline": {
+            "code": "AA"
+        }
+    }
+]
+
