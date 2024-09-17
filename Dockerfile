@@ -12,4 +12,4 @@ EXPOSE 2980
 
 
 
-CMD [ "node","run", "dev" ]
+CMD [ "npm","run", "dev" ]
