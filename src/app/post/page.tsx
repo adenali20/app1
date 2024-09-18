@@ -54,7 +54,7 @@ export default function Page() {
     return <div id="myDiv">
       <input value={value} onChange={(e) => {setValue(e.target.value)}} />
 
-      <button onClick={()=>postData()}>Click me</button> | <button onClick={()=>clearData()}>Clear Data</button>
+      <button onClick={()=>postData()}>Add Data</button> | <button onClick={()=>clearData()}>Clear All Data</button>
       <ul id="myUL">
       {
         items.map(e=>{
