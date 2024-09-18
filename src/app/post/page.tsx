@@ -5,13 +5,25 @@ import "./post.css";
 export default function Page() {
 
   const [items,setItems]=useState([""])
+  const[value, setValue] = useState(""); 
 
   useEffect(()=>{
+    fetchData()
    
-  },[items])
+  },[])
+
+  const clearData=()=>{
+    fetch("http://localhost:8081/deleteUsers")
+            .then((res) => res.json())
+            .then((json) => {
+              console.log(json);
+              
+              setItems([])
+            });
+  }
 
   const fetchData=()=>{
-    fetch("http://64.225.56.232:8081/users")
+    fetch("http://localhost:8081/users")
             .then((res) => res.json())
             .then((json) => {
               console.log(json);
@@ -19,9 +31,28 @@ export default function Page() {
               setItems([...json])
             });
   }
+  //http://64.225.56.232:8081/users
+
+  const postData=()=>{
+      fetch("http://localhost:8081/users", { 
+        method: "POST", 
+        body: value, 
+        headers: { 
+            "Content-type": "application/json; charset=UTF-8"
+        } 
+    }) 
+    .then(response => response.json()) 
+    .then((json) => {
+      console.log(json);
+      
+      setItems([...json])
+    });
+  }
   
-    return <div>
-      <button onClick={()=>fetchData()}>Click me</button>
+    return <div id="myDiv">
+      <input value={value} onChange={(e) => {setValue(e.target.value)}} />
+
+      <button onClick={()=>postData()}>Click me</button> | <button onClick={()=>clearData()}>Clear Data</button>
       <ul id="myUL">
       {
         items.map(e=>{
