@@ -7,13 +7,15 @@ export default function Page() {
   const [items,setItems]=useState([""])
   const[value, setValue] = useState(""); 
 
+  const url="http://64.225.56.232"
+
   useEffect(()=>{
     fetchData()
    
   },[])
 
   const clearData=()=>{
-    fetch("http://localhost:8081/deleteUsers")
+    fetch(`${url}:8081/deleteUsers`)
             .then((res) => res.json())
             .then((json) => {
               console.log(json);
@@ -23,7 +25,7 @@ export default function Page() {
   }
 
   const fetchData=()=>{
-    fetch("http://localhost:8081/users")
+    fetch(`${url}:8081/users`)
             .then((res) => res.json())
             .then((json) => {
               console.log(json);
@@ -34,7 +36,7 @@ export default function Page() {
   //http://64.225.56.232:8081/users
 
   const postData=()=>{
-      fetch("http://localhost:8081/users", { 
+      fetch(`${url}:8081/users`, { 
         method: "POST", 
         body: value, 
         headers: { 
