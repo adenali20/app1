@@ -7,7 +7,7 @@ export default function Page() {
   const [items,setItems]=useState([""])
   const[value, setValue] = useState(""); 
 
-  const url="http://64.225.56.232"
+  const url="http://159.203.107.86:30005"
 
   useEffect(()=>{
     fetchData()
