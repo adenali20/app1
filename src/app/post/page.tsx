@@ -7,7 +7,7 @@ export default function Page() {
   const [items,setItems]=useState([""])
   const[value, setValue] = useState(""); 
 
-  const url="http://159.203.107.86:30005"
+  const url="http://159.203.:30005"
 
   useEffect(()=>{
     fetchData()
@@ -58,7 +58,7 @@ export default function Page() {
         backgroundColor:"#87CEFA",opacity: 1
       }}>Add Data</button> | <button onClick={()=>clearData()} style={{
         backgroundColor:"#FFA07A"
-      }}>Clear All Data</button>
+      }}>Delete  Data</button>
       <ul id="myUL">
       {
         items.map(e=>{
