@@ -15,7 +15,7 @@ export default function Page() {
   },[])
 
   const clearData=()=>{
-    fetch(`${url}/deleteUsers`)
+    fetch(`${url}/api/users/deleteUsers`)
             .then((res) => res.json())
             .then((json) => {
               console.log(json);
@@ -25,7 +25,7 @@ export default function Page() {
   }
 
   const fetchData=()=>{
-    fetch(`${url}/users`)
+    fetch(`${url}/api/users/`)
             .then((res) => res.json())
             .then((json) => {
               console.log(json);
@@ -36,7 +36,7 @@ export default function Page() {
   //http://64.225.56.232:8081/users
 
   const postData=()=>{
-      fetch(`${url}/users`, { 
+      fetch(`${url}/api/users/`, { 
         method: "POST", 
         body: value, 
         headers: { 
