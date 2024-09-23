@@ -23,8 +23,8 @@ export default function RootLayout({
       }}>
         <div>
           {
-            links.map(link=>{
-              return <Link href={"/post/"} style={pathname.endsWith(link)?{color:"blue"}:{color:"black"}}> {link}</Link>
+            links.map((link,index)=>{
+              return <Link href={"/post/"} key={index} style={pathname.endsWith(link)?{color:"blue"}:{color:"black"}}> {link}</Link>
             })
           }
         </div>

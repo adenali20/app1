@@ -61,8 +61,8 @@ export default function Page() {
       }}>Clear  Data</button>
       <ul id="myUL">
       {
-        items.map(e=>{
-          return  <li ><a href="#" style={{
+        items.map((e,index)=>{
+          return  <li key={index} ><a href="#" style={{
             color:"red"
           }}>{e}</a></li>
         })
