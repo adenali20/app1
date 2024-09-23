@@ -55,14 +55,16 @@ export default function Page() {
       <input value={value} onChange={(e) => {setValue(e.target.value)}} />
 
       <button onClick={()=>postData()} style={{
-        backgroundColor:"#87CEFA",opacity: 1
-      }}>Add Data</button> | <button onClick={()=>clearData()} style={{
-        backgroundColor:"#FFA07A"
-      }}>Delete  Data</button>
+        backgroundColor:"green",opacity: 1
+      }}>Post Data</button> | <button onClick={()=>clearData()} style={{
+        backgroundColor:"red"
+      }}>Clear  Data</button>
       <ul id="myUL">
       {
         items.map(e=>{
-          return  <li><a href="#">{e}</a></li>
+          return  <li ><a href="#" style={{
+            color:"red"
+          }}>{e}</a></li>
         })
       }
       </ul>
